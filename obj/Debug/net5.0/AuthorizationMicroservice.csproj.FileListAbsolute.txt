@@ -1,0 +1,192 @@
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.exe
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.AssemblyReference.cache
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\2145580\Documents\CorporateClassifieds\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.exe
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.AssemblyReference.cache
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\log4net.config
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\log4net.dll
+C:\Users\Angiee\Downloads\Telegram Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\log4net.config
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.StaticWebAssets.xml
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.exe
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\log4net.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.AssemblyReference.cache
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\obj\Debug\net5.0\refint\AuthorizationMicroservice.dll
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+C:\Users\rohit\Desktop\cts project\cts project\AuthorizationMicroservice\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
